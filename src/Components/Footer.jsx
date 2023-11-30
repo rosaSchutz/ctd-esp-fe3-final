@@ -14,21 +14,21 @@ const Footer = () => {
         <p>Wendy Garcia and Rosa Piñeros</p>
       </section>
       <section className="footer-socials">
-        <img src="../../public/images/DH.png" alt="DH-logo" width={300}/>
+        <img src="../../public/assets/DH.png" alt="DH-logo" width={300}/>
         <ul className="socials">
           <li>
-            <img src="../../public/images/facebook.svg" alt="icon-facebook" />
+            <img src="../../public/assets/facebook.svg" alt="icon-facebook" />
           </li>
           <li>
-            <img src="../../public/images/instagram.svg" alt="icon-instagram" />
+            <img src="../../public/assets/instagram.svg" alt="icon-instagram" />
           </li>
           <li>
-            <img src="../../public/images/whatsapp.svg" alt="icon-whatsapp" />
+            <img src="../../public/assets/whatsapp.svg" alt="icon-whatsapp" />
           </li>
           <li>
             <img
               id="tiktok"
-              src="../../public/images/tiktok.svg"
+              src="../../public/assets/tiktok.svg"
               alt="icon-tiktok"
               width={30}
             />
