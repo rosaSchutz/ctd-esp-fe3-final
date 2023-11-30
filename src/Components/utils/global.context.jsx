@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useReducer } from 'react'
 import { createContext, useContext, useEffect } from 'react'
 
-const ContextGlobal = createContext(undefined);
+const ContextGlobal = createContext();
 
 const reducer = (state, action) => {
   switch (action.type) {
